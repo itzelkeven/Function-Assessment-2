@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Function Assessment 2", "Function Assessment 2.pyproj", "{E6FBB8CA-0E1B-4934-BEC6-7D054AA0CCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FBB8CA-0E1B-4934-BEC6-7D054AA0CCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FBB8CA-0E1B-4934-BEC6-7D054AA0CCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36707427-8D32-409E-8AA9-C6E5F32FB85B}
+	EndGlobalSection
+EndGlobal
